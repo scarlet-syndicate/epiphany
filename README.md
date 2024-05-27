@@ -107,8 +107,8 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 For any questions, suggestions, or issues, please reach out to the project maintainers:
 
-- **Greninja**: greninja@ghostsofwar.org
-- **Lance**: lance@ghostsofwar.org
+- **Greninja**: greninja@scarletx.org
+- **Lance**: lance@scarletx.org
 
 You can also open an issue on our [GitHub repository](https://github.com/ScarletSyndicate/EpiPhany/issues).
 
