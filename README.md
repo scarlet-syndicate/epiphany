@@ -1,4 +1,3 @@
-```markdown
 # Epiphany - AI Academic Dashboard
 
 ## Overview
