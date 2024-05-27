@@ -1,3 +1,4 @@
+```markdown
 # Epiphany - AI Academic Dashboard
 
 ## Overview
@@ -44,8 +45,8 @@ Welcome to Epiphany, an AI-powered academic dashboard designed to assist student
 1. **Clone the Repository**
 
    ```bash
-   git clone https://github.com/ghosts-of-war/epiphany.git
-   cd epiphany
+   git clone https://github.com/ScarletSyndicate/EpiPhany.git
+   cd EpiPhany
    ```
 
 2. **Frontend Setup**
@@ -110,10 +111,11 @@ For any questions, suggestions, or issues, please reach out to the project maint
 - **Greninja**: greninja@ghostsofwar.org
 - **Lance**: lance@ghostsofwar.org
 
-You can also open an issue on our [GitHub repository](https://github.com/ghosts-of-war/epiphany/issues).
+You can also open an issue on our [GitHub repository](https://github.com/ScarletSyndicate/EpiPhany/issues).
 
 Thank you for using Epiphany! We hope it enhances your academic journey.
 
 ---
 
 _This README was last updated on May 26, 2024. Please check our repository for the latest information and updates._
+```
