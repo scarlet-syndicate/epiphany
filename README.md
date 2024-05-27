@@ -2,7 +2,7 @@
 
 ## Overview
 
-Welcome to Epiphany, an AI-powered academic dashboard designed to assist students in managing their academics efficiently. Co-led by Greninja and Lance under the organization "Ghosts of War," Epiphany aims to provide students with a seamless interface to track their academic progress, access their syllabus and courses, and get AI-driven assistance for any academic doubts. Additionally, the dashboard keeps students informed about any updates or changes in their courses or syllabus.
+Welcome to Epiphany, an AI-powered academic dashboard designed to assist students in managing their academics efficiently. Co-led by Greninja and Lance under the organization "ScarletSyndicate," Epiphany aims to provide students with a seamless interface to track their academic progress, access their syllabus and courses, and get AI-driven assistance for any academic doubts. Additionally, the dashboard keeps students informed about any updates or changes in their courses or syllabus.
 
 ## Table of Contents
 
